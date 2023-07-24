@@ -1,0 +1,28 @@
+
+git pull origin master
+
+NOTE -
+git remote add origin https://github.com/usmaniraghib/xxx.git
+
+No need to use this statement, because we are working on same mashine.
+
+************************************************************************************DEVELOPER*********************************************************************************
+
+Microsoft Windows [Version 10.0.19045.3086]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\Asus\GitRepository-LEAD\2Interview-Selenium>git pull origin master
+remote: Enumerating objects: 13, done.
+remote: Counting objects: 100% (13/13), done.
+remote: Compressing objects: 100% (1/1), done.
+remote: Total 7 (delta 3), reused 7 (delta 3), pack-reused 0
+Unpacking objects: 100% (7/7), 520 bytes | 19.00 KiB/s, done.
+From https://github.com/usmaniraghib/2Interview-Selenium
+ * branch            master     -> FETCH_HEAD
+   ddf6c01..e60a3d0  master     -> origin/master
+Updating ddf6c01..e60a3d0
+Fast-forward
+ src/com/raghib/selenium/SeleniumProgTwo.java | 7 ++++---
+ 1 file changed, 4 insertions(+), 3 deletions(-)
+
+C:\Users\Asus\GitRepository-LEAD\2Interview-Selenium>

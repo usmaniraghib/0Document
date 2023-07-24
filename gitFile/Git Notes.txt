@@ -1,0 +1,109 @@
+--1INTODRUCTION OF GIT
+
+--2SetupAndPush
+
+*) Tell Git who you are?
+> git config --global user.name "Raghib"
+> git config --global user.email "javaprogrammers786@gmail.com"
+
+*) To initialize a git repository and to create a new local repository
+> git init
+NOTE - It will create .git hidden folder in you local machine.
+
+*) What is Staging and Commit?
+Staging -> it is a first level of commit.
+Commit -> It is a final level of commit. [Commit only commit the file which is available in Staging]
+
+Normal -> Staging -> Commit -> Github.
+
+*) How to add file into Staging? Or move local repository file to staging.
+> git status
+> git add * or git add src/com/raghib/selenium/XXX.java
+> git status
+
+*) Commit changes to head (but not yet to the remote repository, which is github)
+> git commit -m "This is my first commit"
+
+NOTE - 
+-m stands for message.
+
+*) How to push the code into Github (from commit to github)?
+
+**) Provide the address where we need to push?
+> git remote add origin https://XXXXXXXXXXXXX.git -> Now remote repository connected to the local repository.
+
+**) Send changes to the master branch of your remote repository
+> git push origin master
+
+--3CloneAndPush
+
+*) If already repository available in git then how to take into our local repository?
+
+GitStuff or GitX (Person - X) - EST Timezone - LEAD
+GitDemo (Person - Y) - IST Timezone - DEVELOPER
+
+**) When you take code first time into your local repository, use the below command.
+> git clone https://XXXXXXXXXXXXX.git
+
+**) Now suppose developer made some changes into GitDemo file and now he want to commit his changes into github repository.
+GitDemo> git status
+GitDemo> git add *
+GitDemo> git status
+GitDemo> git commit -m "This changes committed by developer"
+
+//SKIP THIS STEP BECAUSE YOU ARE USING SAME MACHINE FOR BOTH [LEAD AND DEVELOPER].
+GitDemo> git remote add origin https://XXXXXXXXXXXXX.git
+
+GitDemo> git push origin master
+
+--4Pull-Branch
+*) How to take the latest code into your machine?
+GitX> git pull origin master
+
+*) Now do some changes into your code as a lead and push your changes into git repository so developer take your changes.
+GitDemo> git status
+GitDemo> git add *
+GitDemo> git status
+GitDemo> git commit -m "This changes committed by lead"
+GitDemo> git push origin master
+
+GitDemo> git pull origin master
+
+**) Create a new branch
+> git checkout -b <branchname>
+
+NOTE - 
+-b stands for create new branch.
+
+**) Switch from one branch to another branch
+> git checkout <branchname>
+
+**) List all branch in your repo, and also tell you what branch you are currently in
+> git branch
+
+**) delete the feature branch
+> git branch -d <branchname>
+
+--5Merge-Conflict
+
+**) Switching from develop branch into master branch
+> git checkout master
+
+**) Merge the develop branch changes into master branch
+> git merge develop
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+s

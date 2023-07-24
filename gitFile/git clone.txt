@@ -1,0 +1,199 @@
+
+NOTE -
+git init
+
+No need to use this statement again, because we are working on same mashine.
+
+************************************************************************************DEVELOPER*********************************************************************************
+
+git clone https://github.com/usmaniraghib/0Selenium_Way-1.git
+
+***********************
+
+git clone https://github.com/usmaniraghib/0Selenium_Way-2.git
+
+***********************
+
+git clone https://github.com/usmaniraghib/0Selenium_Way-3.git
+
+***********************
+
+git clone https://github.com/usmaniraghib/1Interview-Java.git
+
+***********************
+
+git clone https://github.com/usmaniraghib/2Interview-Selenium.git
+
+***********************
+
+git clone https://github.com/usmaniraghib/3Interview-JavaStream.git
+
+***********************
+
+git clone https://github.com/usmaniraghib/4Interview-String.git
+
+***********************
+
+git clone https://github.com/usmaniraghib/Alert-JavaPopUp_WebPoUp.git
+
+***********************
+
+git clone https://github.com/usmaniraghib/amazon.git
+
+***********************
+
+git clone https://github.com/usmaniraghib/Autosuggestive.git
+
+***********************
+
+git clone https://github.com/usmaniraghib/BrokenLink.git
+
+***********************
+
+git clone https://github.com/usmaniraghib/CalenderPrograms.git
+
+***********************
+
+git clone https://github.com/usmaniraghib/CheckBox.git
+
+***********************
+
+git clone https://github.com/usmaniraghib/ChromeLocationNotification.git
+
+***********************
+
+git clone https://github.com/usmaniraghib/CrossBrowserTestingOrGRID.git
+
+***********************
+
+git clone https://github.com/usmaniraghib/DatabaseTesting.git
+
+***********************
+
+git clone https://github.com/usmaniraghib/DataDrivenTesting.git
+
+***********************
+
+git clone https://github.com/usmaniraghib/DeleteCookies.git
+
+***********************
+
+git clone https://github.com/usmaniraghib/DropDown_Static-Dynamic.git
+
+***********************
+
+git clone https://github.com/usmaniraghib/FileUplaodAndDownload.git
+
+***********************
+
+git clone https://github.com/usmaniraghib/GoogleSearchBox.git
+
+***********************
+
+git clone https://github.com/usmaniraghib/Headless.git
+
+***********************
+
+git clone https://github.com/usmaniraghib/HTTPSCertificate.git
+
+***********************
+
+git clone https://github.com/usmaniraghib/JavaSeleniumTestngCucumberMaven.git
+
+***********************
+
+git clone https://github.com/usmaniraghib/PomWithoutPageFactory.git
+
+***********************
+
+git clone https://github.com/usmaniraghib/PomWithPageFactory.git
+
+***********************
+
+git clone https://github.com/usmaniraghib/RadioButton.git
+
+***********************
+
+git clone https://github.com/usmaniraghib/RestAssuredBDDStyle.git
+
+***********************
+
+git clone https://github.com/usmaniraghib/ScrollUsingJavaScriptExecutor.git
+
+***********************
+
+git clone https://github.com/usmaniraghib/SeleniumFeature-4.git
+
+***********************
+
+git clone https://github.com/usmaniraghib/SeleniumProjectOne.git
+
+***********************
+
+git clone https://github.com/usmaniraghib/SeleniumWithProperties.git
+
+***********************
+
+git clone https://github.com/usmaniraghib/SeleniumWithTestNGProject.git
+
+***********************
+
+git clone https://github.com/usmaniraghib/StaleElementReferenceExceptionHandle.git
+
+***********************
+
+git clone https://github.com/usmaniraghib/SynchronizationInAutomation.git
+
+***********************
+
+git clone https://github.com/usmaniraghib/TableGrid.git
+
+***********************
+
+git clone https://github.com/usmaniraghib/TakeScreenShot.git
+
+***********************
+
+git clone https://github.com/usmaniraghib/TestNgCodeExecutionFlow.git
+
+***********************
+
+git clone https://github.com/usmaniraghib/TestNgWithXml.git
+
+***********************
+
+git clone https://github.com/usmaniraghib/Tooltip.git
+
+***********************
+
+git clone https://github.com/usmaniraghib/WebDriverManager.git
+
+***********************
+
+git clone https://github.com/usmaniraghib/WebTable.git
+
+***********************
+
+git clone https://github.com/usmaniraghib/WebTableWithPagination.git
+
+********************************************************************INTELLIJ - IDE*****************************************************************************************
+
+git clone https://github.com/usmaniraghib/APIAutomationProject.git
+
+***********************
+
+git clone https://github.com/usmaniraghib/CucumberTestNgSeleniumProject.git
+
+***********************
+
+git clone https://github.com/usmaniraghib/JavaProgramming.git
+
+***********************
+
+git clone https://github.com/usmaniraghib/TestNgSeleniumProject.git
+
+***********************
+
+git clone https://github.com/usmaniraghib/UIAutomationProject.git
+
+***********************

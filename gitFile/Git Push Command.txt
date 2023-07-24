@@ -1,0 +1,627 @@
+git init
+
+git add *	-> move the file in stagging area
+
+git satus
+
+git commit -m "0Selenium_Way-1" -> move the file from stagging area to github
+
+git remote add origin https://github.com/usmaniraghib/0Selenium_Way-1.git
+
+git push origin master	OR	git push -u -f --set-upstream origin master
+
+#######################
+
+git init
+
+git add *	-> move the file in stagging area
+
+git satus
+
+git commit -m "0Selenium_Way-2" -> move the file from stagging area to github
+
+git remote add origin https://github.com/usmaniraghib/0Selenium_Way-2.git
+
+git push origin master	OR	git push -u -f --set-upstream origin master
+
+#######################
+
+git init
+
+git add *	-> move the file in stagging area
+
+git satus
+
+git commit -m "0Selenium_Way-3" -> move the file from stagging area to github
+
+git remote add origin https://github.com/usmaniraghib/0Selenium_Way-3.git
+
+git push origin master	OR	git push -u -f --set-upstream origin master
+
+#######################
+
+git init
+
+git add *	-> move the file in stagging area
+
+git satus
+
+git commit -m "1Interview-Java" -> move the file from stagging area to github
+
+git remote add origin https://github.com/usmaniraghib/1Interview-Java.git
+
+git push origin master	OR	git push -u -f --set-upstream origin master
+
+#######################
+
+git init
+
+git add *	-> move the file in stagging area
+
+git satus
+
+git commit -m "2Interview-Selenium" -> move the file from stagging area to github
+
+git remote add origin https://github.com/usmaniraghib/2Interview-Selenium.git
+
+git push origin master	OR	git push -u -f --set-upstream origin master
+
+#######################
+
+git init
+
+git add *	-> move the file in stagging area
+
+git satus
+
+git commit -m "3Interview-JavaStream" -> move the file from stagging area to github
+
+git remote add origin https://github.com/usmaniraghib/3Interview-JavaStream.git
+
+git push origin master	OR	git push -u -f --set-upstream origin master
+
+#######################
+
+git init
+
+git add *	-> move the file in stagging area
+
+git satus
+
+git commit -m "4Interview-String" -> move the file from stagging area to github
+
+git remote add origin https://github.com/usmaniraghib/4Interview-String.git
+
+git push origin master	OR	git push -u -f --set-upstream origin master
+
+#######################
+
+git init
+
+git add *	-> move the file in stagging area
+
+git satus
+
+git commit -m "Alert-JavaPopUp_WebPoUp" -> move the file from stagging area to github
+
+git remote add origin https://github.com/usmaniraghib/Alert-JavaPopUp_WebPoUp.git
+
+git push origin master	OR	git push -u -f --set-upstream origin master
+
+#######################
+
+git init
+
+git add *	-> move the file in stagging area
+
+git satus
+
+git commit -m "amazon" -> move the file from stagging area to github
+
+git remote add origin https://github.com/usmaniraghib/amazon.git
+
+git push origin master	OR	git push -u -f --set-upstream origin master
+
+#######################
+
+git init
+
+git add *	-> move the file in stagging area
+
+git satus
+
+git commit -m "Autosuggestive" -> move the file from stagging area to github
+
+git remote add origin https://github.com/usmaniraghib/Autosuggestive.git
+
+git push origin master	OR	git push -u -f --set-upstream origin master
+
+#######################
+
+git init
+
+git add *	-> move the file in stagging area
+
+git satus
+
+git commit -m "BrokenLink" -> move the file from stagging area to github
+
+git remote add origin https://github.com/usmaniraghib/BrokenLink.git
+
+git push origin master	OR	git push -u -f --set-upstream origin master
+
+#######################
+
+git init
+
+git add *	-> move the file in stagging area
+
+git satus
+
+git commit -m "CalenderPrograms" -> move the file from stagging area to github
+
+git remote add origin https://github.com/usmaniraghib/CalenderPrograms.git
+
+git push origin master	OR	git push -u -f --set-upstream origin master
+
+#######################
+
+git init
+
+git add *	-> move the file in stagging area
+
+git satus
+
+git commit -m "CheckBox" -> move the file from stagging area to github
+
+git remote add origin https://github.com/usmaniraghib/CheckBox.git
+
+git push origin master	OR	git push -u -f --set-upstream origin master
+
+#######################
+
+git init
+
+git add *	-> move the file in stagging area
+
+git satus
+
+git commit -m "CrossBrowserTestingOrGRID" -> move the file from stagging area to github
+
+git remote add origin https://github.com/usmaniraghib/CrossBrowserTestingOrGRID.git
+
+git push origin master	OR	git push -u -f --set-upstream origin master
+
+#######################
+
+git init
+
+git add *	-> move the file in stagging area
+
+git satus
+
+git commit -m "DatabaseTesting" -> move the file from stagging area to github
+
+git remote add origin https://github.com/usmaniraghib/DatabaseTesting.git
+
+git push origin master	OR	git push -u -f --set-upstream origin master
+
+#######################
+
+git init
+
+git add *	-> move the file in stagging area
+
+git satus
+
+git commit -m "DataDrivenTesting" -> move the file from stagging area to github
+
+git remote add origin https://github.com/usmaniraghib/DataDrivenTesting.git
+
+git push origin master	OR	git push -u -f --set-upstream origin master
+
+#######################
+
+git init
+
+git add *	-> move the file in stagging area
+
+git satus
+
+git commit -m "DeleteCookies" -> move the file from stagging area to github
+
+git remote add origin https://github.com/usmaniraghib/DeleteCookies.git
+
+git push origin master	OR	git push -u -f --set-upstream origin master
+
+#######################
+
+git init
+
+git add *	-> move the file in stagging area
+
+git satus
+
+git commit -m "DropDown_Static-Dynamic" -> move the file from stagging area to github
+
+git remote add origin https://github.com/usmaniraghib/DropDown_Static-Dynamic.git
+
+git push origin master	OR	git push -u -f --set-upstream origin master
+
+#######################
+
+git init
+
+git add *	-> move the file in stagging area
+
+git satus
+
+git commit -m "FileUplaodAndDownload" -> move the file from stagging area to github
+
+git remote add origin https://github.com/usmaniraghib/FileUplaodAndDownload.git
+
+git push origin master	OR	git push -u -f --set-upstream origin master
+
+#######################
+
+git init
+
+git add *	-> move the file in stagging area
+
+git satus
+
+git commit -m "GoogleSearchBox" -> move the file from stagging area to github
+
+git remote add origin https://github.com/usmaniraghib/GoogleSearchBox.git
+
+git push origin master	OR	git push -u -f --set-upstream origin master
+
+#######################
+
+git init
+
+git add *	-> move the file in stagging area
+
+git satus
+
+git commit -m "Headless" -> move the file from stagging area to github
+
+git remote add origin https://github.com/usmaniraghib/Headless.git
+
+git push origin master	OR	git push -u -f --set-upstream origin master
+
+#######################
+
+git init
+
+git add *	-> move the file in stagging area
+
+git satus
+
+git commit -m "HTTPSCertificate" -> move the file from stagging area to github
+
+git remote add origin https://github.com/usmaniraghib/HTTPSCertificate.git
+
+git push origin master	OR	git push -u -f --set-upstream origin master
+
+#######################
+
+git init
+
+git add *	-> move the file in stagging area
+
+git satus
+
+git commit -m "PomWithoutPageFactory" -> move the file from stagging area to github
+
+git remote add origin https://github.com/usmaniraghib/PomWithoutPageFactory.git
+
+git push origin master	OR	git push -u -f --set-upstream origin master
+
+#######################
+
+git init
+
+git add *	-> move the file in stagging area
+
+git satus
+
+git commit -m "PomWithPageFactory" -> move the file from stagging area to github
+
+git remote add origin https://github.com/usmaniraghib/PomWithPageFactory.git
+
+git push origin master	OR	git push -u -f --set-upstream origin master
+
+#######################
+
+git init
+
+git add *	-> move the file in stagging area
+
+git satus
+
+git commit -m "RadioButton" -> move the file from stagging area to github
+
+git remote add origin https://github.com/usmaniraghib/RadioButton.git
+
+git push origin master	OR	git push -u -f --set-upstream origin master
+
+#######################
+
+git init
+
+git add *	-> move the file in stagging area
+
+git satus
+
+git commit -m "RestAssuredBDDStyle" -> move the file from stagging area to github
+
+git remote add origin https://github.com/usmaniraghib/RestAssuredBDDStyle.git
+
+git push origin master	OR	git push -u -f --set-upstream origin master
+
+#######################
+
+git init
+
+git add *	-> move the file in stagging area
+
+git satus
+
+git commit -m "ScrollUsingJavaScriptExecutor" -> move the file from stagging area to github
+
+git remote add origin https://github.com/usmaniraghib/ScrollUsingJavaScriptExecutor.git
+
+git push origin master	OR	git push -u -f --set-upstream origin master
+
+#######################
+
+git init
+
+git add *	-> move the file in stagging area
+
+git satus
+
+git commit -m "SeleniumFeature-4" -> move the file from stagging area to github
+
+git remote add origin https://github.com/usmaniraghib/SeleniumFeature-4.git
+
+git push origin master	OR	git push -u -f --set-upstream origin master
+
+#######################
+
+git init
+
+git add *	-> move the file in stagging area
+
+git satus
+
+git commit -m "SeleniumProjectOne" -> move the file from stagging area to github
+
+git remote add origin https://github.com/usmaniraghib/SeleniumProjectOne.git
+
+git push origin master	OR	git push -u -f --set-upstream origin master
+
+#######################
+
+git init
+
+git add *	-> move the file in stagging area
+
+git satus
+
+git commit -m "SeleniumWithProperties" -> move the file from stagging area to github
+
+git remote add origin https://github.com/usmaniraghib/SeleniumWithProperties.git
+
+git push origin master	OR	git push -u -f --set-upstream origin master
+
+#######################
+
+git init
+
+git add *	-> move the file in stagging area
+
+git satus
+
+git commit -m "SeleniumWithTestNGProject" -> move the file from stagging area to github
+
+git remote add origin https://github.com/usmaniraghib/SeleniumWithTestNGProject.git
+
+git push origin master	OR	git push -u -f --set-upstream origin master
+
+#######################
+
+git init
+
+git add *	-> move the file in stagging area
+
+git satus
+
+git commit -m "StaleElementReferenceExceptionHandle" -> move the file from stagging area to github
+
+git remote add origin https://github.com/usmaniraghib/StaleElementReferenceExceptionHandle.git
+
+git push origin master	OR	git push -u -f --set-upstream origin master
+
+#######################
+
+git init
+
+git add *	-> move the file in stagging area
+
+git satus
+
+git commit -m "SynchronizationInAutomation" -> move the file from stagging area to github
+
+git remote add origin https://github.com/usmaniraghib/SynchronizationInAutomation.git
+
+git push origin master	OR	git push -u -f --set-upstream origin master
+
+#######################
+
+git init
+
+git add *	-> move the file in stagging area
+
+git satus
+
+git commit -m "TableGrid" -> move the file from stagging area to github
+
+git remote add origin https://github.com/usmaniraghib/TableGrid.git
+
+git push origin master	OR	git push -u -f --set-upstream origin master
+
+#######################
+
+git init
+
+git add *	-> move the file in stagging area
+
+git satus
+
+git commit -m "TakeScreenShot" -> move the file from stagging area to github
+
+git remote add origin https://github.com/usmaniraghib/TakeScreenShot.git
+
+git push origin master	OR	git push -u -f --set-upstream origin master
+
+#######################
+
+git init
+
+git add *	-> move the file in stagging area
+
+git satus
+
+git commit -m "Test" -> move the file from stagging area to github
+
+git remote add origin https://github.com/usmaniraghib/Test.git
+
+git push origin master	OR	git push -u -f --set-upstream origin master
+
+#######################
+
+git init
+
+git add *	-> move the file in stagging area
+
+git satus
+
+git commit -m "TestNgCodeExecutionFlow" -> move the file from stagging area to github
+
+git remote add origin https://github.com/usmaniraghib/TestNgCodeExecutionFlow.git
+
+git push origin master	OR	git push -u -f --set-upstream origin master
+
+#######################
+
+git init
+
+git add *	-> move the file in stagging area
+
+git satus
+
+git commit -m "TestNgWithXml" -> move the file from stagging area to github
+
+git remote add origin https://github.com/usmaniraghib/TestNgWithXml.git
+
+git push origin master	OR	git push -u -f --set-upstream origin master
+
+#######################
+
+git init
+
+git add *	-> move the file in stagging area
+
+git satus
+
+git commit -m "Tooltip" -> move the file from stagging area to github
+
+git remote add origin https://github.com/usmaniraghib/Tooltip.git
+
+git push origin master	OR	git push -u -f --set-upstream origin master
+
+#######################
+
+git init
+
+git add *	-> move the file in stagging area
+
+git satus
+
+git commit -m "WebDriverManager" -> move the file from stagging area to github
+
+git remote add origin https://github.com/usmaniraghib/WebDriverManager.git
+
+git push origin master	OR	git push -u -f --set-upstream origin master
+
+#######################
+
+git init
+
+git add *	-> move the file in stagging area
+
+git satus
+
+git commit -m "APIAutomationProject" -> move the file from stagging area to github
+
+git remote add origin https://github.com/usmaniraghib/APIAutomationProject.git
+
+git push origin master	OR	git push -u -f --set-upstream origin master
+
+#######################
+
+git init
+
+git add *	-> move the file in stagging area
+
+git satus
+
+git commit -m "CucumberTestNgSeleniumProject" -> move the file from stagging area to github
+
+git remote add origin https://github.com/usmaniraghib/CucumberTestNgSeleniumProject.git
+
+git push origin master	OR	git push -u -f --set-upstream origin master
+
+#######################
+
+git init
+
+git add *	-> move the file in stagging area
+
+git satus
+
+git commit -m "JavaProgramming" -> move the file from stagging area to github
+
+git remote add origin https://github.com/usmaniraghib/JavaProgramming.git
+
+git push origin master	OR	git push -u -f --set-upstream origin master
+
+#######################
+
+git init
+
+git add *	-> move the file in stagging area
+
+git satus
+
+git commit -m "TestNgSeleniumProject" -> move the file from stagging area to github
+
+git remote add origin https://github.com/usmaniraghib/TestNgSeleniumProject.git
+
+git push origin master	OR	git push -u -f --set-upstream origin master
+
+#######################
+
+git init
+
+git add *	-> move the file in stagging area
+
+git satus
+
+git commit -m "UIAutomationProject" -> move the file from stagging area to github
+
+git remote add origin https://github.com/usmaniraghib/UIAutomationProject.git
+
+git push origin master	OR	git push -u -f --set-upstream origin master

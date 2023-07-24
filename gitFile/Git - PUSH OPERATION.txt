@@ -1,0 +1,101 @@
+git status
+git add * or git add src/com/raghib/selenium/XXX.java
+git satus
+git commit -m "COMMENTS"
+git push origin master
+
+NOTE -
+git remote add origin https://github.com/usmaniraghib/xxx.git
+
+No need to use this statement, because we are working on same mashine.
+
+************************************************************************************LEAD*********************************************************************************
+
+Microsoft Windows [Version 10.0.19045.3086]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\Asus\GitRepository-LEAD\2Interview-Selenium>git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   .classpath
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+C:\Users\Asus\GitRepository-LEAD\2Interview-Selenium>git add *
+
+C:\Users\Asus\GitRepository-LEAD\2Interview-Selenium>git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        modified:   .classpath
+
+
+C:\Users\Asus\GitRepository-LEAD\2Interview-Selenium>git commit -m ".classpath added by Raghib-LEAD"
+[master ddf6c01] .classpath added by Raghib-LEAD
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+C:\Users\Asus\GitRepository-LEAD\2Interview-Selenium>git remote add origin https://github.com/usmaniraghib/2Interview-Selenium.git
+error: remote origin already exists.
+
+C:\Users\Asus\GitRepository-LEAD\2Interview-Selenium>git push origin master
+Enumerating objects: 5, done.
+Counting objects: 100% (5/5), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 345 bytes | 345.00 KiB/s, done.
+Total 3 (delta 2), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (2/2), completed with 2 local objects.
+To https://github.com/usmaniraghib/2Interview-Selenium.git
+   be4c4b1..ddf6c01  master -> master
+
+C:\Users\Asus\GitRepository-LEAD\2Interview-Selenium>
+
+************************************************************************************DEVELOPER*********************************************************************************
+
+Microsoft Windows [Version 10.0.19045.3086]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\Asus\GitRepository-DEVELOPER\2Interview-Selenium>git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   src/com/raghib/selenium/SeleniumProgTwo.java
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+C:\Users\Asus\GitRepository-DEVELOPER\2Interview-Selenium>git add *
+
+C:\Users\Asus\GitRepository-DEVELOPER\2Interview-Selenium>git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        modified:   src/com/raghib/selenium/SeleniumProgTwo.java
+
+
+C:\Users\Asus\GitRepository-DEVELOPER\2Interview-Selenium>git commit -m "Changes done by Developer-Raghib"
+[master e60a3d0] Changes done by Developer-Raghib
+ 1 file changed, 4 insertions(+), 3 deletions(-)
+
+C:\Users\Asus\GitRepository-DEVELOPER\2Interview-Selenium>git push origin master
+Enumerating objects: 13, done.
+Counting objects: 100% (13/13), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (4/4), done.
+Writing objects: 100% (7/7), 540 bytes | 540.00 KiB/s, done.
+Total 7 (delta 3), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (3/3), completed with 3 local objects.
+To https://github.com/usmaniraghib/2Interview-Selenium.git
+   ddf6c01..e60a3d0  master -> master
+
+C:\Users\Asus\GitRepository-DEVELOPER\2Interview-Selenium>
