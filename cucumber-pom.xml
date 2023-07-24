@@ -1,0 +1,153 @@
+<cucumber-java-version>7.12.1</cucumber-java-version>
+<cucumber-junit-version>7.12.1</cucumber-junit-version>
+<cucumber-core-version>7.12.1</cucumber-core-version>
+<cucumber-java8-version>7.12.1</cucumber-java8-version>
+<cucumber-picocontainer-version>7.12.1</cucumber-picocontainer-version>
+<cucumber-testng-version>7.12.1</cucumber-testng-version>
+<cucumber-reporting-version>5.7.6</cucumber-reporting-version>
+<cucumber-guice-version>7.12.1</cucumber-guice-version>
+<cucumber-junit-platform-engine-version>7.12.1</cucumber-junit-platform-engine-version>
+<cucumber-gherkin-version>7.12.1</cucumber-gherkin-version>
+<cucumber-plugin-version>7.12.1</cucumber-plugin-version>
+<cucumber-extentsreport-version>3.1.1</cucumber-extentsreport-version>
+<cucumber-pdf-report-version>2.13.0</cucumber-pdf-report-version>
+<maven-cucumber-reporting-version>5.7.5</maven-cucumber-reporting-version>
+<cucumber-expressions-version>16.1.2</cucumber-expressions-version>
+<cucumber-html-version>0.2.7</cucumber-html-version>
+<cobertura-version>1.8</cobertura-version>
+<cucumber-jvm-deps-version>1.0.6</cucumber-jvm-deps-version>
+<hamcrest-core-version>2.2</hamcrest-core-version>
+<gherkin-version>26.2.0</gherkin-version>
+<junit-version>4.13.2</junit-version>
+
+<!-- https://mvnrepository.com/artifact/io.cucumber/cucumber-java -->
+<dependency>
+    <groupId>io.cucumber</groupId>
+    <artifactId>cucumber-java</artifactId>
+    <version>${cucumber-java-version}</version>
+</dependency>
+<!-- https://mvnrepository.com/artifact/io.cucumber/cucumber-junit -->
+<dependency>
+    <groupId>io.cucumber</groupId>
+    <artifactId>cucumber-junit</artifactId>
+    <version>${cucumber-junit-version}</version>
+    <scope>test</scope>
+</dependency>
+<!-- https://mvnrepository.com/artifact/io.cucumber/cucumber-core -->
+<dependency>
+    <groupId>io.cucumber</groupId>
+    <artifactId>cucumber-core</artifactId>
+    <version>${cucumber-core-version}</version>
+</dependency>
+<!-- https://mvnrepository.com/artifact/io.cucumber/cucumber-java8 -->
+<dependency>
+    <groupId>io.cucumber</groupId>
+    <artifactId>cucumber-java8</artifactId>
+    <version>${cucumber-java8-version}</version>
+</dependency>
+<!-- https://mvnrepository.com/artifact/io.cucumber/cucumber-picocontainer -->
+<dependency>
+    <groupId>io.cucumber</groupId>
+    <artifactId>cucumber-picocontainer</artifactId>
+    <version>${cucumber-picocontainer-version}</version>
+</dependency>
+<!-- https://mvnrepository.com/artifact/io.cucumber/cucumber-testng -->
+<dependency>
+    <groupId>io.cucumber</groupId>
+    <artifactId>cucumber-testng</artifactId>
+    <version>${cucumber-testng-version}</version>
+</dependency>
+<!-- https://mvnrepository.com/artifact/net.masterthought/cucumber-reporting -->
+<dependency>
+    <groupId>net.masterthought</groupId>
+    <artifactId>cucumber-reporting</artifactId>
+    <version>${cucumber-reporting-version}</version>
+</dependency>
+<!-- https://mvnrepository.com/artifact/io.cucumber/cucumber-guice -->
+<dependency>
+    <groupId>io.cucumber</groupId>
+    <artifactId>cucumber-guice</artifactId>
+    <version>${cucumber-guice-version}</version>
+</dependency>
+<!-- https://mvnrepository.com/artifact/io.cucumber/cucumber-junit-platform-engine -->
+<dependency>
+    <groupId>io.cucumber</groupId>
+    <artifactId>cucumber-junit-platform-engine</artifactId>
+    <version>${cucumber-junit-platform-engine-version}</version>
+    <scope>test</scope>
+</dependency>
+<!-- https://mvnrepository.com/artifact/io.cucumber/cucumber-gherkin -->
+<dependency>
+    <groupId>io.cucumber</groupId>
+    <artifactId>cucumber-gherkin</artifactId>
+    <version>${cucumber-gherkin-version}</version>
+</dependency>
+<!-- https://mvnrepository.com/artifact/io.cucumber/cucumber-plugin -->
+<dependency>
+    <groupId>io.cucumber</groupId>
+    <artifactId>cucumber-plugin</artifactId>
+    <version>${cucumber-plugin-version}</version>
+</dependency>
+<!-- https://mvnrepository.com/artifact/com.vimalselvam/cucumber-extentsreport -->
+<dependency>
+    <groupId>com.vimalselvam</groupId>
+    <artifactId>cucumber-extentsreport</artifactId>
+    <version>${cucumber-extentsreport-version}</version>
+</dependency>
+<!-- https://mvnrepository.com/artifact/tech.grasshopper/cucumber-pdf-report -->
+<dependency>
+    <groupId>tech.grasshopper</groupId>
+    <artifactId>cucumber-pdf-report</artifactId>
+    <version>${cucumber-pdf-report-version}</version>
+</dependency>
+<!-- https://mvnrepository.com/artifact/net.masterthought/maven-cucumber-reporting -->
+<dependency>
+    <groupId>net.masterthought</groupId>
+    <artifactId>maven-cucumber-reporting</artifactId>
+    <version>${maven-cucumber-reporting-version}</version>
+</dependency>
+<!-- https://mvnrepository.com/artifact/io.cucumber/cucumber-expressions -->
+<dependency>
+    <groupId>io.cucumber</groupId>
+    <artifactId>cucumber-expressions</artifactId>
+    <version>${cucumber-expressions-version}</version>
+</dependency>
+<!-- https://mvnrepository.com/artifact/io.cucumber/cucumber-html -->
+<dependency>
+    <groupId>io.cucumber</groupId>
+    <artifactId>cucumber-html</artifactId>
+    <version>${cucumber-html-version}</version>
+</dependency>
+<!-- https://mvnrepository.com/artifact/cobertura/cobertura -->
+<dependency>
+    <groupId>cobertura</groupId>
+    <artifactId>cobertura</artifactId>
+    <version>${cobertura-version}</version>
+</dependency>
+<!-- https://mvnrepository.com/artifact/io.cucumber/cucumber-jvm-deps -->
+<dependency>
+    <groupId>io.cucumber</groupId>
+    <artifactId>cucumber-jvm-deps</artifactId>
+    <version>${cucumber-jvm-deps-version}</version>
+    <scope>provided</scope>
+</dependency>
+<!-- https://mvnrepository.com/artifact/org.hamcrest/hamcrest-core -->
+<dependency>
+    <groupId>org.hamcrest</groupId>
+    <artifactId>hamcrest-core</artifactId>
+    <version>${hamcrest-core-version}</version>
+    <scope>test</scope>
+</dependency>
+<!-- https://mvnrepository.com/artifact/io.cucumber/gherkin -->
+<dependency>
+    <groupId>io.cucumber</groupId>
+    <artifactId>gherkin</artifactId>
+    <version>${gherkin-version}</version>
+</dependency>
+<!-- https://mvnrepository.com/artifact/junit/junit -->
+<dependency>
+    <groupId>junit</groupId>
+    <artifactId>junit</artifactId>
+    <version>${junit-version}</version>
+    <scope>test</scope>
+</dependency>

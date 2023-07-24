@@ -1,0 +1,104 @@
+Security Testing
+Accessibility Testing
+Payment Testing
+Card Testing
+
+Programming Languages -> Java, C, C++
+
+Scripting Languages -> Perl, Python, PowerShell, VBScript, PHP, JavaScript, NodeJS
+
+Client Side Scripting -> JavaScript, VBScript
+
+Server Side Scripting -> PHP, ASP, JSP
+
+Markup Languages -> HTML, XML
+
+NOTE - Every Scripting Languages is a programming language, but every programming language is not a scripting language.
+
+https://www.youtube.com/watch?v=-v4LyAH4xmg
+
+Accessibility Testing OR Ally Testing:-
+
+*) People with disabilities use assistive technology which helps them in operating a software product.
+
+1) Speech Recognition Software (Example - Hey Google, Alexa) - It will convert the spoken word to text, which serves as input to the computer.
+2) Screen Reader Software (Example - ATM Machine) - Used to read out the text that is displayed on the screen. [JAWS tool]
+3) Screen Magnification Software (Example - ) - Used to enlarge the monitor and make reading easy for vision-impaired users.
+
+US / UK / Australia / Ireland
+
+Types of disabilities;
+1) Color Blindness
+2) Complete Blindness
+3) Low Vision
+4) Deafness
+and Others.
+
+How to perform Accessibility Testing?
+In two ways we can perform;
+1) Manual
+2) Automation
+
+Tools : Sort-Site(Not open source OR Free Trail).
+
+https://www.youtube.com/watch?v=x8ST9a-eSFg
+
+AXE-Selenium-Java -> Library which follow WCAG 2.0 all guidelines for Ally Testing.
+
+Example - Amazon.com
+
+//pom.xml
+<dependency>
+	<groupId>com.deque</groupId>
+	<artifactId>axe-selenium</artifactId>
+	<version>3.0</version>
+</dependency>
+
+Step-2
+Under src/test/resources put axe.min.js
+
+public class AmazonAllyTest {
+
+WebDriver driver;
+private static final URL scriptUrl = AmazonAllyTest.class.getResource("/axe.min.js");
+
+@BeforeMethod
+pubic void setup(){
+WebDriverManager.chromedriver().setup();
+driver = new ChromeDriver();
+driver.get("https://www.amazon.com");
+}
+
+@Testing
+public void testFunctionality(){
+	JSONObject responseJSON = new AXE.Builder(driver, scriptUrl).analyze();
+	JSONArray violation = responseJSON.getJSONArray("violation");
+	
+	if(violation.length() == 0){
+		System.out.println("No Error");
+	} else {
+		AXE.writeResults("amazonAllyTest", responseJSON);
+		Assert.assertTrue(false, AXE.report(violation));
+	}
+}
+
+@AfterMethod
+public void tearDown(){
+	driver.quit();
+}
+
+}
+
+Label is wrong written (Violation or Error)
+Expected -> area-label
+Found -> area-lable
+
+Don't put the same text in the alt attribute value for a button or link.
+<p>
+	<a href="index.html">
+		<img src="images/icon.png" alt="Home Page" /> Home Page 
+	</a>
+</p>
+
+//ReadyAPI Postman Integration
+http://productextensions.s3.amazonaws.com/SoapUI-Plugins/readyapi-postman-plugin-1.0.2.jar
