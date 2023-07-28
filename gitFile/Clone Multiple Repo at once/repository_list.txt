@@ -14,6 +14,7 @@ https://github.com/usmaniraghib/BrokenLink.git
 https://github.com/usmaniraghib/CalenderPrograms.git
 https://github.com/usmaniraghib/CheckBox.git
 https://github.com/usmaniraghib/ChromeLocationNotification.git
+https://github.com/usmaniraghib/Conflict.git
 https://github.com/usmaniraghib/CucumberTestNgSeleniumProject.git
 https://github.com/usmaniraghib/DatabaseTesting.git
 https://github.com/usmaniraghib/DataDrivenTesting.git
