@@ -1,0 +1,459 @@
+NOTE - Keep "repository_list.txt" file inside this location "C:\Users\Asus\GitRepository-DEVELOPER-New" and run the below command thru command prompt.
+
+C:\Users\Asus\GitRepository-DEVELOPER-New>for /f "usebackq" %i in ("repository_list.txt") do git clone "%i"
+
+*******************************OUTPUT*******************************
+
+C:\Users\Asus\GitRepository-DEVELOPER-New>git clone "https://github.com/usmaniraghib/0Document.git"
+Cloning into '0Document'...
+remote: Enumerating objects: 25, done.
+remote: Counting objects: 100% (25/25), done.
+remote: Compressing objects: 100% (19/19), done.
+Receiving objects: 100% (25/25), 4.08 MiB | 3.65 MiB/s, done.
+remote: Total 25 (delta 9), reused 22 (delta 6), pack-reused 0
+Resolving deltas: 100% (9/9), done.
+
+C:\Users\Asus\GitRepository-DEVELOPER-New>git clone "https://github.com/usmaniraghib/0Selenium_Way-1.git"
+Cloning into '0Selenium_Way-1'...
+remote: Enumerating objects: 41, done.
+remote: Counting objects: 100% (41/41), done.
+remote: Compressing objects: 100% (24/24), done.
+remote: Total 41 (delta 4), reused 40 (delta 3), pack-reused 0
+Receiving objects: 100% (41/41), 5.73 KiB | 1.43 MiB/s, done.
+Resolving deltas: 100% (4/4), done.
+
+C:\Users\Asus\GitRepository-DEVELOPER-New>git clone "https://github.com/usmaniraghib/0Selenium_Way-2.git"
+Cloning into '0Selenium_Way-2'...
+remote: Enumerating objects: 30, done.
+remote: Counting objects: 100% (30/30), done.
+remote: Compressing objects: 100% (18/18), done.
+remote: Total 30 (delta 1), reused 30 (delta 1), pack-reused 0
+Receiving objects: 100% (30/30), 4.68 KiB | 1.56 MiB/s, done.
+Resolving deltas: 100% (1/1), done.
+
+C:\Users\Asus\GitRepository-DEVELOPER-New>git clone "https://github.com/usmaniraghib/0Selenium_Way-3.git"
+Cloning into '0Selenium_Way-3'...
+remote: Enumerating objects: 27, done.
+remote: Counting objects: 100% (27/27), done.
+remote: Compressing objects: 100% (17/17), done.
+remote: Total 27 (delta 0), reused 27 (delta 0), pack-reused 0
+Receiving objects: 100% (27/27), 4.46 KiB | 1.49 MiB/s, done.
+
+C:\Users\Asus\GitRepository-DEVELOPER-New>git clone "https://github.com/usmaniraghib/1Interview-Java.git"
+Cloning into '1Interview-Java'...
+remote: Enumerating objects: 158, done.
+remote: Counting objects: 100% (158/158), done.
+remote: Compressing objects: 100% (127/127), done.
+
+Receiving objects: 100% (158/158), 54.64 KiB | 1.11 MiB/s, done.
+Resolving deltas: 100% (43/43), done.
+
+C:\Users\Asus\GitRepository-DEVELOPER-New>git clone "https://github.com/usmaniraghib/2Interview-Selenium.git"
+Cloning into '2Interview-Selenium'...
+remote: Enumerating objects: 144, done.
+remote: Counting objects: 100% (3/3), done.
+remote: Compressing objects: 100% (3/3), done.
+remote: Total 144 (delta 0), reused 3 (delta 0), pack-reused 141
+Receiving objects: 100% (144/144), 45.89 MiB | 2.77 MiB/s, done.
+Resolving deltas: 100% (11/11), done.
+
+C:\Users\Asus\GitRepository-DEVELOPER-New>git clone "https://github.com/usmaniraghib/3Interview-JavaStream.git"
+Cloning into '3Interview-JavaStream'...
+remote: Enumerating objects: 31, done.
+remote: Counting objects: 100% (31/31), done.
+remote: Compressing objects: 100% (14/14), done.
+remote: Total 31 (delta 4), reused 30 (delta 3), pack-reused 0
+Receiving objects: 100% (31/31), 6.71 KiB | 1.68 MiB/s, done.
+Resolving deltas: 100% (4/4), done.
+
+C:\Users\Asus\GitRepository-DEVELOPER-New>git clone "https://github.com/usmaniraghib/4Interview-String.git"
+Cloning into '4Interview-String'...
+remote: Enumerating objects: 190, done.
+remote: Counting objects: 100% (190/190), done.
+remote: Compressing objects: 100% (95/95), done.
+Receiving objects: 100% (190/190), 48.85 KiB | 1.04 MiB/s, done.
+Resolving deltas:  30% (26/84)reused 187 (delta 81), pack-reused 0
+Resolving deltas: 100% (84/84), done.
+
+C:\Users\Asus\GitRepository-DEVELOPER-New>git clone "https://github.com/usmaniraghib/Alert-JavaPopUp_WebPoUp.git"
+Cloning into 'Alert-JavaPopUp_WebPoUp'...
+remote: Enumerating objects: 181, done.
+remote: Counting objects: 100% (54/54), done.
+remote: Compressing objects: 100% (25/25), done.
+remote: Total 181 (delta 13), reused 52 (delta 11), pack-reused 127Receiving objects:  76% (138/181), 45.79 MiB | 1.18 MReceiving objects:  85% (154/181), 45.79 MiB | 1.18 MiB/s
+Receiving objects: 100% (181/181), 45.90 MiB | 1.25 MiB/s, done.
+Resolving deltas: 100% (17/17), done.
+
+C:\Users\Asus\GitRepository-DEVELOPER-New>git clone "https://github.com/usmaniraghib/amazon.git"
+Cloning into 'amazon'...
+remote: Enumerating objects: 135, done.
+remote: Counting objects: 100% (20/20), done.
+remote: Compressing objects: 100% (12/12), done.
+remote: Total 135 (delta 1), reused 20 (delta 1), pack-reused 115
+Receiving objects: 100% (135/135), 52.48 MiB | 1.28 MiB/s, done.
+Resolving deltas: 100% (1/1), done.
+
+C:\Users\Asus\GitRepository-DEVELOPER-New>git clone "https://github.com/usmaniraghib/APIAutomationProject.git"
+Cloning into 'APIAutomationProject'...
+remote: Enumerating objects: 16, done.
+remote: Counting objects: 100% (16/16), done.
+remote: Compressing objects: 100% (8/8), done.
+remote: Total 16 (delta 0), reused 16 (delta 0), pack-reused 0
+Receiving objects: 100% (16/16), done.
+
+C:\Users\Asus\GitRepository-DEVELOPER-New>git clone "https://github.com/usmaniraghib/Autosuggestive.git"
+Cloning into 'Autosuggestive'...
+remote: Enumerating objects: 162, done.
+remote: Counting objects: 100% (39/39), done.
+remote: Compressing objects: 100% (19/19), done.
+remote: Total 162 (delta 6), reused 35 (delta 2), pack-reused 123Receiving objects:  74% (120/162), 45.58 MiB | 3.37 MiBReceiving objects:  84% (137/162), 45.58 MiB | 3.37 MiB/s
+Receiving objects: 100% (162/162), 45.90 MiB | 3.33 MiB/s, done.
+Resolving deltas: 100% (6/6), done.
+
+C:\Users\Asus\GitRepository-DEVELOPER-New>git clone "https://github.com/usmaniraghib/BrokenLink.git"
+Cloning into 'BrokenLink'...
+remote: Enumerating objects: 166, done.
+remote: Counting objects: 100% (41/41), done.
+remote: Compressing objects: 100% (18/18), done.
+remote: Total 166 (delta 8), reused 34 (delta 4), pack-reused 125
+Receiving objects: 100% (166/166), 47.16 MiB | 1.85 MiB/s, done.
+Resolving deltas: 100% (8/8), done.
+
+C:\Users\Asus\GitRepository-DEVELOPER-New>git clone "https://github.com/usmaniraghib/CalenderPrograms.git"
+Cloning into 'CalenderPrograms'...
+remote: Enumerating objects: 158, done.
+remote: Counting objects: 100% (35/35), done.
+remote: Compressing objects: 100% (17/17), done.
+remote: Total 158 (delta 4), reused 30 (delta 2), pack-reused 123
+Receiving objects:  86% (136/158), 45.81 MiB | 2.42 MiB/s
+Receiving objects: 100% (158/158), 45.90 MiB | 2.16 MiB/s, done.
+Resolving deltas: 100% (4/4), done.
+
+C:\Users\Asus\GitRepository-DEVELOPER-New>git clone "https://github.com/usmaniraghib/CheckBox.git"
+Cloning into 'CheckBox'...
+remote: Enumerating objects: 144, done.
+remote: Counting objects: 100% (22/22), done.
+remote: Compressing objects: 100% (11/11), done.
+remote: Total 144 (delta 1), reused 22 (delta 1), pack-reused 122Receiving objects:  83% (120/144), 45.40 MiB | 1.34 MiBReceiving objects:  85% (123/144), 45.40 MiB | 1.34 MiB/s
+Receiving objects: 100% (144/144), 45.89 MiB | 1.32 MiB/s, done.
+Resolving deltas: 100% (1/1), done.
+
+C:\Users\Asus\GitRepository-DEVELOPER-New>git clone "https://github.com/usmaniraghib/ChromeLocationNotification.git"
+Cloning into 'ChromeLocationNotification'...
+remote: Enumerating objects: 71, done.
+remote: Counting objects: 100% (71/71), done.
+remote: Compressing objects: 100% (41/41), done.
+remote: Total 71 (delta 10), reused 65 (delta 4), pack-reused 0
+Receiving objects: 100% (71/71), 6.78 MiB | 1.06 MiB/s, done.
+Resolving deltas: 100% (10/10), done.
+
+C:\Users\Asus\GitRepository-DEVELOPER-New>git clone "https://github.com/usmaniraghib/CucumberTestNgSeleniumProject.git"
+Cloning into 'CucumberTestNgSeleniumProject'...
+remote: Enumerating objects: 58, done.
+remote: Counting objects: 100% (58/58), done.
+remote: Compressing objects: 100% (44/44), done.
+Receiving objects:  70% (41/58)
+Receiving objects: 100% (58/58), 49.74 KiB | 1.08 MiB/s, done.
+Resolving deltas: 100% (4/4), done.
+
+C:\Users\Asus\GitRepository-DEVELOPER-New>git clone "https://github.com/usmaniraghib/DatabaseTesting.git"
+Cloning into 'DatabaseTesting'...
+remote: Enumerating objects: 144, done.
+remote: Counting objects: 100% (144/144), done.
+remote: Compressing objects: 100% (116/116), done.
+remote: Total 144 (delta 11), reused 134 (delta 1), pack-reused 0
+Receiving objects: 100% (144/144), 31.52 MiB | 2.34 MiB/s, done.
+Resolving deltas: 100% (11/11), done.
+
+C:\Users\Asus\GitRepository-DEVELOPER-New>git clone "https://github.com/usmaniraghib/DataDrivenTesting.git"
+Cloning into 'DataDrivenTesting'...
+remote: Enumerating objects: 195, done.
+remote: Counting objects: 100% (195/195), done.
+remote: Compressing objects: 100% (161/161), done.
+remote: Total 195 (delta 26), reused 179 (delta 10), pack-reused 0
+Receiving objects: 100% (195/195), 32.78 MiB | 2.67 MiB/s, done.
+Resolving deltas: 100% (26/26), done.
+
+C:\Users\Asus\GitRepository-DEVELOPER-New>git clone "https://github.com/usmaniraghib/DeleteCookies.git"
+Cloning into 'DeleteCookies'...
+remote: Enumerating objects: 124, done.
+remote: Counting objects: 100% (124/124), done.
+remote: Compressing objects: 100% (103/103), done.
+remote: Total 124 (delta 6), reused 119 (delta 1), pack-reused 0
+Receiving objects: 100% (124/124), 30.80 MiB | 3.35 MiB/s, done.
+Resolving deltas: 100% (6/6), done.
+
+C:\Users\Asus\GitRepository-DEVELOPER-New>git clone "https://github.com/usmaniraghib/DropDown_Static-Dynamic.git"
+Cloning into 'DropDown_Static-Dynamic'...
+remote: Enumerating objects: 148, done.
+remote: Counting objects: 100% (148/148), done.
+remote: Compressing objects: 100% (116/116), done.
+remote: Total 148 (delta 20), reused 139 (delta 11), pack-reused 0
+Receiving objects:  79% (117/148), 30.08 MiB | 1.54 MiB/s
+Receiving objects: 100% (148/148), 30.81 MiB | 1.45 MiB/s, done.
+Resolving deltas: 100% (20/20), done.
+
+C:\Users\Asus\GitRepository-DEVELOPER-New>git clone "https://github.com/usmaniraghib/FileUplaodAndDownload.git"
+Cloning into 'FileUplaodAndDownload'...
+remote: Enumerating objects: 141, done.
+remote: Counting objects: 100% (141/141), done.
+remote: Compressing objects: 100% (121/121), done.
+remote: Total 141 (delta 8), reused 134 (delta 1), pack-reused 0
+Receiving objects: 100% (141/141), 38.47 MiB | 2.07 MiB/s, done.
+Resolving deltas: 100% (8/8), done.
+
+C:\Users\Asus\GitRepository-DEVELOPER-New>git clone "https://github.com/usmaniraghib/GoogleSearchBox.git"
+Cloning into 'GoogleSearchBox'...
+remote: Enumerating objects: 151, done.
+remote: Counting objects: 100% (151/151), done.
+remote: Compressing objects: 100% (112/112), done.
+remote: Total 151 (delta 13), reused 142 (delta 4), pack-reused 0
+Receiving objects:  71% (108/151), 30.64 MiB | 2.20 MiB/s
+Receiving objects: 100% (151/151), 30.80 MiB | 1.41 MiB/s, done.
+Resolving deltas: 100% (13/13), done.
+
+C:\Users\Asus\GitRepository-DEVELOPER-New>git clone "https://github.com/usmaniraghib/GridOrCrossBrowserTestingUsingSeleniumFour.git"
+Cloning into 'GridOrCrossBrowserTestingUsingSeleniumFour'...
+remote: Enumerating objects: 126, done.
+remote: Counting objects: 100% (126/126), done.
+remote: Compressing objects: 100% (84/84), done.
+remote: Total 126 (delta 39), reused 104 (delta 29), pack-reused 0
+Receiving objects: 100% (126/126), 66.13 KiB | 1.20 MiB/s, done.
+Resolving deltas: 100% (39/39), done.
+
+C:\Users\Asus\GitRepository-DEVELOPER-New>git clone "https://github.com/usmaniraghib/Headless.git"
+Cloning into 'Headless'...
+remote: Enumerating objects: 146, done.
+remote: Counting objects: 100% (23/23), done.
+remote: Compressing objects: 100% (11/11), done.
+remote: Total 146 (delta 1), reused 23 (delta 1), pack-reused 123Receiving objects:  82% (120/146), 44.81 MiB | 2.52 MiBReceiving objects:  91% (133/146), 44.81 MiB | 2.52 MiB/s
+Receiving objects: 100% (146/146), 45.89 MiB | 2.84 MiB/s, done.
+Resolving deltas: 100% (1/1), done.
+
+C:\Users\Asus\GitRepository-DEVELOPER-New>git clone "https://github.com/usmaniraghib/HTTPSCertificate.git"
+Cloning into 'HTTPSCertificate'...
+remote: Enumerating objects: 124, done.
+remote: Counting objects: 100% (124/124), done.
+remote: Compressing objects: 100% (105/105), done.
+remote: Total 124 (delta 6), reused 119 (delta 1), pack-reused 0Receiving objects:  77% (96/124), 29.96 MiB | 4.09 MiB/sReceiving objects:  95% (118/124), 29.96 MiB | 4.09 MiB/s
+Receiving objects: 100% (124/124), 30.80 MiB | 4.21 MiB/s, done.
+Resolving deltas: 100% (6/6), done.
+
+C:\Users\Asus\GitRepository-DEVELOPER-New>git clone "https://github.com/usmaniraghib/JavaProgramming.git"
+Cloning into 'JavaProgramming'...
+remote: Enumerating objects: 34, done.
+remote: Counting objects: 100% (34/34), done.
+remote: Compressing objects: 100% (27/27), done.
+remote: Total 34 (delta 3), reused 34 (delta 3), pack-reused 0
+Receiving objects: 100% (34/34), 11.62 KiB | 2.32 MiB/s, done.
+Resolving deltas: 100% (3/3), done.
+
+C:\Users\Asus\GitRepository-DEVELOPER-New>git clone "https://github.com/usmaniraghib/JavaSeleniumTestngCucumberMaven.git"
+Cloning into 'JavaSeleniumTestngCucumberMaven'...
+remote: Enumerating objects: 73, done.
+remote: Counting objects: 100% (73/73), done.
+remote: Compressing objects: 100% (34/34), done.
+Receiving objects: 100% (73/73), 13.37 KiB | 1.91 MiB/s, done.
+Resolving deltas: 100% (6/6), done.
+remote: Total 73 (delta 6), reused 72 (delta 5), pack-reused 0
+
+C:\Users\Asus\GitRepository-DEVELOPER-New>git clone "https://github.com/usmaniraghib/PomWithoutPageFactory.git"
+Cloning into 'PomWithoutPageFactory'...
+remote: Enumerating objects: 177, done.
+remote: Counting objects: 100% (177/177), done.
+remote: Compressing objects: 100% (100/100), done.
+remote: Total 177 (delta 65), reused 154 (delta 42), pack-reused 0
+Receiving objects: 100% (177/177), 13.42 MiB | 1.26 MiB/s, done.
+Resolving deltas: 100% (65/65), done.
+
+C:\Users\Asus\GitRepository-DEVELOPER-New>git clone "https://github.com/usmaniraghib/PomWithPageFactory.git"
+Cloning into 'PomWithPageFactory'...
+remote: Enumerating objects: 156, done.
+remote: Counting objects: 100% (156/156), done.
+remote: Compressing objects: 100% (84/84), done.
+Receiving objects:  64% (100/156)emote: Total 156 (delta 30), reused 146 (delta 20), pack-reused 0
+Receiving objects: 100% (156/156), 57.78 KiB | 1020.00 KiB/s, done.
+Resolving deltas: 100% (30/30), done.
+
+C:\Users\Asus\GitRepository-DEVELOPER-New>git clone "https://github.com/usmaniraghib/RadioButton.git"
+Cloning into 'RadioButton'...
+remote: Enumerating objects: 124, done.
+remote: Counting objects: 100% (124/124), done.
+remote: Compressing objects: 100% (103/103), done.
+remote: Total 124 (delta 6), reused 119 (delta 1), pack-reused 0Receiving objects:  77% (96/124), 30.16 MiB | 2.17 MiB/sReceiving objects: 100% (124/124), 30.80 MiB | 3.24 MiB/s, done.
+
+Resolving deltas: 100% (6/6), done.
+
+C:\Users\Asus\GitRepository-DEVELOPER-New>git clone "https://github.com/usmaniraghib/RestAssuredBDDStyle.git"
+Cloning into 'RestAssuredBDDStyle'...
+remote: Enumerating objects: 214, done.
+remote: Counting objects: 100% (214/214), done.
+remote: Compressing objects: 100% (161/161), done.
+
+Receiving objects: 100% (214/214), 350.95 KiB | 1.26 MiB/s, done.
+Resolving deltas: 100% (63/63), done.
+
+C:\Users\Asus\GitRepository-DEVELOPER-New>git clone "https://github.com/usmaniraghib/ScrollUsingJavaScriptExecutor.git"
+Cloning into 'ScrollUsingJavaScriptExecutor'...
+remote: Enumerating objects: 120, done.
+remote: Counting objects: 100% (120/120), done.
+remote: Compressing objects: 100% (104/104), done.
+remote: Total 120 (delta 8), reused 116 (delta 4), pack-reused 0
+Receiving objects: 100% (120/120), 30.80 MiB | 3.48 MiB/s, done.
+Resolving deltas: 100% (8/8), done.
+
+C:\Users\Asus\GitRepository-DEVELOPER-New>git clone "https://github.com/usmaniraghib/SeleniumFeature-4.git"
+Cloning into 'SeleniumFeature-4'...
+remote: Enumerating objects: 127, done.
+remote: Counting objects: 100% (127/127), done.
+remote: Compressing objects: 100% (109/109), done.
+remote: Total 127 (delta 9), reused 120 (delta 2), pack-reused 0
+Receiving objects: 100% (127/127), 30.80 MiB | 3.33 MiB/s, done.
+Resolving deltas: 100% (9/9), done.
+
+C:\Users\Asus\GitRepository-DEVELOPER-New>git clone "https://github.com/usmaniraghib/SeleniumProjectOne.git"
+Cloning into 'SeleniumProjectOne'...
+remote: Enumerating objects: 138, done.
+remote: Counting objects: 100% (41/41), done.
+remote: Compressing objects: 100% (27/27), done.
+remote: Total 138 (delta 3), reused 34 (delta 1), pack-reused 97
+Receiving objects: 100% (138/138), 56.26 MiB | 3.62 MiB/s, done.
+Resolving deltas: 100% (3/3), done.
+
+C:\Users\Asus\GitRepository-DEVELOPER-New>git clone "https://github.com/usmaniraghib/SeleniumWithProperties.git"
+Cloning into 'SeleniumWithProperties'...
+remote: Enumerating objects: 93, done.
+remote: Counting objects: 100% (93/93), done.
+remote: Compressing objects: 100% (70/70), done.
+Receiving objects:  67% (63/93), 5.97 MiB | 3.83 MiB/s-reused 0
+Receiving objects: 100% (93/93), 6.87 MiB | 3.98 MiB/s, done.
+Resolving deltas: 100% (21/21), done.
+
+C:\Users\Asus\GitRepository-DEVELOPER-New>git clone "https://github.com/usmaniraghib/SeleniumWithTestNGProject.git"
+Cloning into 'SeleniumWithTestNGProject'...
+remote: Enumerating objects: 212, done.
+remote: Counting objects: 100% (23/23), done.
+remote: Compressing objects: 100% (20/20), done.
+remote: Total 212 (delta 2), reused 22 (delta 1), pack-reused 189Receiving objects:  91% (193/212), 48.39 MiB | 2.52 MiBReceiving objects:  96% (204/212), 48.39 MiB | 2.52 MiB/s
+Receiving objects: 100% (212/212), 49.38 MiB | 2.47 MiB/s, done.
+Resolving deltas: 100% (21/21), done.
+
+C:\Users\Asus\GitRepository-DEVELOPER-New>git clone "https://github.com/usmaniraghib/StaleElementReferenceExceptionHandle.git"
+Cloning into 'StaleElementReferenceExceptionHandle'...
+remote: Enumerating objects: 126, done.
+remote: Counting objects: 100% (126/126), done.
+Receiving objects:   3% (4/126)0% (104/104), done.
+remote: Total 126 (delta 7), reused 120 (delta 1), pack-reused 0
+Receiving objects: 100% (126/126), 30.80 MiB | 2.78 MiB/s, done.
+Resolving deltas: 100% (7/7), done.
+
+C:\Users\Asus\GitRepository-DEVELOPER-New>git clone "https://github.com/usmaniraghib/SynchronizationInAutomation.git"
+Cloning into 'SynchronizationInAutomation'...
+remote: Enumerating objects: 168, done.
+remote: Counting objects: 100% (34/34), done.
+remote: Compressing objects: 100% (21/21), done.
+remote: Total 168 (delta 4), reused 34 (delta 4), pack-reused 134Receiving objects:  92% (155/168), 44.63 MiB | 2.59 MiBReceiving objects: 100% (168/168), 45.90 MiB | 2.53 MiB/s, done.
+
+Resolving deltas: 100% (7/7), done.
+Updating files: 100% (112/112), done.
+
+C:\Users\Asus\GitRepository-DEVELOPER-New>git clone "https://github.com/usmaniraghib/TableGrid.git"
+Cloning into 'TableGrid'...
+remote: Enumerating objects: 124, done.
+remote: Counting objects: 100% (124/124), done.
+remote: Compressing objects: 100% (103/103), done.
+remote: Total 124 (delta 6), reused 119 (delta 1), pack-reused 0
+Receiving objects: 100% (124/124), 30.80 MiB | 2.26 MiB/s, done.
+Resolving deltas: 100% (6/6), done.
+
+C:\Users\Asus\GitRepository-DEVELOPER-New>git clone "https://github.com/usmaniraghib/TakeScreenShot.git"
+Cloning into 'TakeScreenShot'...
+remote: Enumerating objects: 138, done.
+remote: Counting objects: 100% (138/138), done.
+remote: Compressing objects: 100% (119/119), done.
+remote: Total 138 (delta 8), reused 133 (delta 3), pack-reused 0
+Receiving objects: 100% (138/138), 33.75 MiB | 3.16 MiB/s, done.
+Resolving deltas: 100% (8/8), done.
+
+C:\Users\Asus\GitRepository-DEVELOPER-New>git clone "https://github.com/usmaniraghib/TestNgCodeExecutionFlow.git"
+Cloning into 'TestNgCodeExecutionFlow'...
+remote: Enumerating objects: 105, done.
+remote: Counting objects: 100% (105/105), done.
+remote: Compressing objects: 100% (70/70), done.
+Receiving objects:  54% (57/105), 1.05 MiB | 2.08 MiB/s-reused 0
+Receiving objects: 100% (105/105), 1.07 MiB | 2.07 MiB/s, done.
+Resolving deltas: 100% (26/26), done.
+
+C:\Users\Asus\GitRepository-DEVELOPER-New>git clone "https://github.com/usmaniraghib/TestNgSeleniumProject.git"
+Cloning into 'TestNgSeleniumProject'...
+remote: Enumerating objects: 66, done.
+remote: Counting objects: 100% (66/66), done.
+remote: Compressing objects: 100% (44/44), done.
+Receiving objects:  83% (55/66)used 66 (delta 14), pack-reused 0
+Receiving objects: 100% (66/66), 52.00 KiB | 968.00 KiB/s, done.
+Resolving deltas: 100% (14/14), done.
+
+C:\Users\Asus\GitRepository-DEVELOPER-New>git clone "https://github.com/usmaniraghib/TestNgWithXml.git"
+Cloning into 'TestNgWithXml'...
+remote: Enumerating objects: 145, done.
+remote: Counting objects: 100% (145/145), done.
+remote: Compressing objects: 100% (81/81), done.
+remote: Total 145 (delta 42), reused 131 (delta 28), pack-reused 0Receiving objects:  61% (89/145), 5.86 MiB | 3.89 MiB/Receiving objects:  66% (96/145), 5.86 MiB | 3.89 MiB/s
+Receiving objects: 100% (145/145), 6.83 MiB | 4.05 MiB/s, done.
+Resolving deltas: 100% (42/42), done.
+
+C:\Users\Asus\GitRepository-DEVELOPER-New>git clone "https://github.com/usmaniraghib/Tooltip.git"
+Cloning into 'Tooltip'...
+remote: Enumerating objects: 128, done.
+remote: Counting objects: 100% (128/128), done.
+remote: Compressing objects: 100% (109/109), done.
+remote: Total 128 (delta 6), reused 123 (delta 1), pack-reused 0
+Receiving objects: 100% (128/128), 37.39 MiB | 3.14 MiB/s, done.
+Resolving deltas: 100% (6/6), done.
+
+C:\Users\Asus\GitRepository-DEVELOPER-New>git clone "https://github.com/usmaniraghib/TrainingDemoProject.git"
+Cloning into 'TrainingDemoProject'...
+remote: Enumerating objects: 181, done.
+remote: Counting objects: 100% (181/181), done.
+remote: Compressing objects: 100% (92/92), done.
+remote: Total 181 (delta 74), reused 181 (delta 74), pack-reused 0Receiving objects:  82% (149/181), 1.07 MiB | 1.53 MiBReceiving objects:  92% (167/181), 1.07 MiB | 1.53 MiB/s
+Receiving objects: 100% (181/181), 2.29 MiB | 2.08 MiB/s, done.
+Resolving deltas: 100% (74/74), done.
+
+C:\Users\Asus\GitRepository-DEVELOPER-New>git clone "https://github.com/usmaniraghib/UIAutomationProject.git"
+Cloning into 'UIAutomationProject'...
+remote: Enumerating objects: 18, done.
+remote: Counting objects: 100% (18/18), done.
+remote: Compressing objects: 100% (11/11), done.
+remote: Total 18 (delta 1), reused 18 (delta 1), pack-reused 0
+Receiving objects: 100% (18/18), 4.84 KiB | 1.61 MiB/s, done.
+Resolving deltas: 100% (1/1), done.
+
+C:\Users\Asus\GitRepository-DEVELOPER-New>git clone "https://github.com/usmaniraghib/WebDriverManager.git"
+Cloning into 'WebDriverManager'...
+remote: Enumerating objects: 34, done.
+remote: Counting objects: 100% (34/34), done.
+remote: Compressing objects: 100% (23/23), done.
+remote: Total 34 (delta 1), reused 34 (delta 1), pack-reused 0
+Receiving objects: 100% (34/34), 6.78 MiB | 1.04 MiB/s, done.
+Resolving deltas: 100% (1/1), done.
+
+C:\Users\Asus\GitRepository-DEVELOPER-New>git clone "https://github.com/usmaniraghib/WebTable.git"
+Cloning into 'WebTable'...
+remote: Enumerating objects: 165, done.
+remote: Counting objects: 100% (165/165), done.
+remote: Compressing objects: 100% (99/99), done.
+remote: Total 165 (delta 27), reused 147 (delta 9), pack-reused 0Receiving objects:  59% (98/165), 4.17 MiB | 4.16 MiB/sReceiving objects:  65% (108/165), 4.17 MiB | 4.16 MiB/s
+Receiving objects: 100% (165/165), 6.32 MiB | 4.54 MiB/s, done.
+Resolving deltas: 100% (27/27), done.
+
+C:\Users\Asus\GitRepository-DEVELOPER-New>git clone "https://github.com/usmaniraghib/WebTableWithPagination.git"
+Cloning into 'WebTableWithPagination'...
+remote: Enumerating objects: 70, done.
+remote: Counting objects: 100% (70/70), done.
+remote: Compressing objects: 100% (38/38), done.
+remote: Total 70 (delta 9), reused 69 (delta 8), pack-reused 0
+Receiving objects: 100% (70/70), 6.27 MiB | 2.53 MiB/s, done.
+Resolving deltas: 100% (9/9), done.
+
+C:\Users\Asus\GitRepository-DEVELOPER-New>
