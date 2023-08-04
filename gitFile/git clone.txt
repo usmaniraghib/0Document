@@ -62,7 +62,15 @@ git clone https://github.com/usmaniraghib/ChromeLocationNotification.git
 
 ***********************
 
-git clone https://github.com/usmaniraghib/CrossBrowserTestingOrGRID.git
+git clone https://github.com/usmaniraghib/Conflict.git
+
+***********************
+
+git clone https://github.com/usmaniraghib/CucumberTestNgSeleniumProject.git
+
+***********************
+
+git clone https://github.com/usmaniraghib/CucumberTestNgSeleniumProject-In-Eclipse.git
 
 ***********************
 

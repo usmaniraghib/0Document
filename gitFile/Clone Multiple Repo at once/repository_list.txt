@@ -16,6 +16,7 @@ https://github.com/usmaniraghib/CheckBox.git
 https://github.com/usmaniraghib/ChromeLocationNotification.git
 https://github.com/usmaniraghib/Conflict.git
 https://github.com/usmaniraghib/CucumberTestNgSeleniumProject.git
+https://github.com/usmaniraghib/CucumberTestNgSeleniumProject-In-Eclipse.git
 https://github.com/usmaniraghib/DatabaseTesting.git
 https://github.com/usmaniraghib/DataDrivenTesting.git
 https://github.com/usmaniraghib/DeleteCookies.git
