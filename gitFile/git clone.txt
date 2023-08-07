@@ -6,6 +6,10 @@ No need to use this statement again, because we are working on same mashine.
 
 ************************************************************************************DEVELOPER*********************************************************************************
 
+git clone https://github.com/usmaniraghib/0Document.git
+
+***********************
+
 git clone https://github.com/usmaniraghib/0Selenium_Way-1.git
 
 ***********************
@@ -18,19 +22,19 @@ git clone https://github.com/usmaniraghib/0Selenium_Way-3.git
 
 ***********************
 
+git clone https://github.com/usmaniraghib/0Selenium_Way-4.git
+
+***********************
+
 git clone https://github.com/usmaniraghib/1Interview-Java.git
 
 ***********************
 
-git clone https://github.com/usmaniraghib/2Interview-Selenium.git
+git clone https://github.com/usmaniraghib/2Interview-String.git
 
 ***********************
 
 git clone https://github.com/usmaniraghib/3Interview-JavaStream.git
-
-***********************
-
-git clone https://github.com/usmaniraghib/4Interview-String.git
 
 ***********************
 
@@ -74,7 +78,7 @@ git clone https://github.com/usmaniraghib/CucumberTestNgSeleniumProject-In-Eclip
 
 ***********************
 
-git clone https://github.com/usmaniraghib/DatabaseTesting.git
+git clone https://github.com/usmaniraghib/DatabaseTestingUsingMySQL.git
 
 ***********************
 
@@ -106,6 +110,10 @@ git clone https://github.com/usmaniraghib/HTTPSCertificate.git
 
 ***********************
 
+git clone https://github.com/usmaniraghib/JavaProgramming.git
+
+***********************
+
 git clone https://github.com/usmaniraghib/JavaSeleniumTestngCucumberMaven.git
 
 ***********************
@@ -130,11 +138,11 @@ git clone https://github.com/usmaniraghib/ScrollUsingJavaScriptExecutor.git
 
 ***********************
 
-git clone https://github.com/usmaniraghib/SeleniumFeature-4.git
+git clone https://github.com/usmaniraghib/SwitchToBrowserTabsAndBrowserWindows.git
 
 ***********************
 
-git clone https://github.com/usmaniraghib/SeleniumProjectOne.git
+git clone https://github.com/usmaniraghib/RunChromeBrowserInDebugMode.git
 
 ***********************
 
@@ -142,7 +150,7 @@ git clone https://github.com/usmaniraghib/SeleniumWithProperties.git
 
 ***********************
 
-git clone https://github.com/usmaniraghib/SeleniumWithTestNGProject.git
+git clone https://github.com/usmaniraghib/SeleniumWithTestNG-RunInBatch.git
 
 ***********************
 
@@ -166,7 +174,7 @@ git clone https://github.com/usmaniraghib/TestNgCodeExecutionFlow.git
 
 ***********************
 
-git clone https://github.com/usmaniraghib/TestNgWithXml.git
+git clone https://github.com/usmaniraghib/TestNgWithXml-Git-JenkinsEmailNotification.git
 
 ***********************
 
