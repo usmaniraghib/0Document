@@ -186,22 +186,22 @@ git clone https://github.com/usmaniraghib/WebTableWithPagination.git
 
 ********************************************************************INTELLIJ - IDE*****************************************************************************************
 
-git clone https://github.com/usmaniraghib/APIAutomationProject.git
+git clone https://github.com/usmaniraghib/APIAutomationProject-In-IntellIJ.git
 
 ***********************
 
-git clone https://github.com/usmaniraghib/CucumberTestNgSeleniumProject.git
+git clone https://github.com/usmaniraghib/CucumberTestNgSeleniumProject-In-IntellIJ.git
 
 ***********************
 
-git clone https://github.com/usmaniraghib/JavaProgramming.git
+git clone https://github.com/usmaniraghib/JavaProgramming-In-IntellIJ.git
 
 ***********************
 
-git clone https://github.com/usmaniraghib/TestNgSeleniumProject.git
+git clone https://github.com/usmaniraghib/TestNgSeleniumProject-In-IntellIJ.git
 
 ***********************
 
-git clone https://github.com/usmaniraghib/UIAutomationProject.git
+git clone https://github.com/usmaniraghib/UIAutomationProject-In-IntellIJ.git
 
 ***********************
