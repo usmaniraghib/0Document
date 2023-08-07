@@ -4,7 +4,7 @@ git init
 
 No need to use this statement again, because we are working on same mashine.
 
-************************************************************************************DEVELOPER*********************************************************************************
+************************************************************************************LEAD*********************************************************************************
 
 git clone https://github.com/usmaniraghib/0Document.git
 
@@ -70,10 +70,6 @@ git clone https://github.com/usmaniraghib/Conflict.git
 
 ***********************
 
-git clone https://github.com/usmaniraghib/CucumberTestNgSeleniumProject.git
-
-***********************
-
 git clone https://github.com/usmaniraghib/CucumberTestNgSeleniumProject-In-Eclipse.git
 
 ***********************
@@ -110,10 +106,6 @@ git clone https://github.com/usmaniraghib/HTTPSCertificate.git
 
 ***********************
 
-git clone https://github.com/usmaniraghib/JavaProgramming.git
-
-***********************
-
 git clone https://github.com/usmaniraghib/JavaSeleniumTestngCucumberMaven.git
 
 ***********************
@@ -134,15 +126,11 @@ git clone https://github.com/usmaniraghib/RestAssuredBDDStyle.git
 
 ***********************
 
-git clone https://github.com/usmaniraghib/ScrollUsingJavaScriptExecutor.git
-
-***********************
-
-git clone https://github.com/usmaniraghib/SwitchToBrowserTabsAndBrowserWindows.git
-
-***********************
-
 git clone https://github.com/usmaniraghib/RunChromeBrowserInDebugMode.git
+
+***********************
+
+git clone https://github.com/usmaniraghib/ScrollUsingJavaScriptExecutor.git
 
 ***********************
 
@@ -155,6 +143,10 @@ git clone https://github.com/usmaniraghib/SeleniumWithTestNG-RunInBatch.git
 ***********************
 
 git clone https://github.com/usmaniraghib/StaleElementReferenceExceptionHandle.git
+
+***********************
+
+git clone https://github.com/usmaniraghib/SwitchToBrowserTabsAndBrowserWindows.git
 
 ***********************
 
