@@ -1,6 +1,7 @@
 https://github.com/usmaniraghib/0Document.git
 https://github.com/usmaniraghib/A_Interview-Collection.git
 https://github.com/usmaniraghib/A_Interview-Java.git
+https://github.com/usmaniraghib/A_Interview-LambdaAndFunctionalInterface.git
 https://github.com/usmaniraghib/A_Interview-Stream.git
 https://github.com/usmaniraghib/A_Interview-String.git
 https://github.com/usmaniraghib/AA_ChromeVersion-116.git
