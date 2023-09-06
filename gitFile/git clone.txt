@@ -126,6 +126,10 @@ git clone https://github.com/usmaniraghib/HTTPSCertificate.git
 
 ***********************
 
+git clone https://github.com/usmaniraghib/IncognitoMode.git
+
+***********************
+
 git clone https://github.com/usmaniraghib/JavaSeleniumTestngCucumberMaven.git
 
 ***********************
@@ -143,6 +147,10 @@ git clone https://github.com/usmaniraghib/PomWithPageFactory.git
 ***********************
 
 git clone https://github.com/usmaniraghib/RadioButton.git
+
+***********************
+
+git clone https://github.com/usmaniraghib/RelativeLocator.git
 
 ***********************
 
