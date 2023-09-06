@@ -34,19 +34,11 @@ git clone https://github.com/usmaniraghib/AA_ChromeVersion-116.git
 
 ***********************
 
-git clone https://github.com/usmaniraghib/AA_Selenium_Way-1.git
+git clone https://github.com/usmaniraghib/AA_SeleniumVersion-4-12.git
 
 ***********************
 
-git clone https://github.com/usmaniraghib/AA_Selenium_Way-2.git
-
-***********************
-
-git clone https://github.com/usmaniraghib/AA_Selenium_Way-3.git
-
-***********************
-
-git clone https://github.com/usmaniraghib/AA_Selenium_Way-4.git
+git clone https://github.com/usmaniraghib/Actions.git
 
 ***********************
 
@@ -54,7 +46,7 @@ git clone https://github.com/usmaniraghib/Alert-JavaPopUp_WebPoUp.git
 
 ***********************
 
-git clone https://github.com/usmaniraghib/amazon.git
+git clone https://github.com/usmaniraghib/Amazon.git
 
 ***********************
 
@@ -90,7 +82,11 @@ git clone https://github.com/usmaniraghib/DatabaseTestingUsingMySQL.git
 
 ***********************
 
-git clone https://github.com/usmaniraghib/DataDrivenTesting.git
+git clone https://github.com/usmaniraghib/DataDrivenTestingUsingApachePOI.git
+
+***********************
+
+git clone https://github.com/usmaniraghib/DataDrivenTestingUsingJXL.git
 
 ***********************
 
@@ -102,11 +98,23 @@ git clone https://github.com/usmaniraghib/DropDown_Static-Dynamic.git
 
 ***********************
 
+git clone https://github.com/usmaniraghib/Extension.git
+
+***********************
+
 git clone https://github.com/usmaniraghib/FileUplaodAndDownload.git
 
 ***********************
 
+git clone https://github.com/usmaniraghib/Frame.git
+
+***********************
+
 git clone https://github.com/usmaniraghib/GoogleSearchBox.git
+
+***********************
+
+git clone https://github.com/usmaniraghib/GridOrCrossBrowserTestingUsingSeleniumFour.git
 
 ***********************
 
@@ -143,6 +151,10 @@ git clone https://github.com/usmaniraghib/RestAssuredBDDStyle.git
 ***********************
 
 git clone https://github.com/usmaniraghib/RunChromeBrowserInDebugMode.git
+
+***********************
+
+git clone https://github.com/usmaniraghib/ScrollUsingActions.git
 
 ***********************
 
@@ -187,10 +199,6 @@ git clone https://github.com/usmaniraghib/TestNgWithXml-Git-JenkinsEmailNotifica
 ***********************
 
 git clone https://github.com/usmaniraghib/Tooltip.git
-
-***********************
-
-git clone https://github.com/usmaniraghib/WebDriverManager.git
 
 ***********************
 

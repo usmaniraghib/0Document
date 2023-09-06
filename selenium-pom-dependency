@@ -281,4 +281,3 @@
     <artifactId>selenium-session-map-jdbc</artifactId>
     <version>${selenium-session-map-jdbc-version}</version>
 </dependency>
-

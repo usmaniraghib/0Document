@@ -5,12 +5,10 @@ https://github.com/usmaniraghib/A_Interview-LambdaAndFunctionalInterface.git
 https://github.com/usmaniraghib/A_Interview-Stream.git
 https://github.com/usmaniraghib/A_Interview-String.git
 https://github.com/usmaniraghib/AA_ChromeVersion-116.git
-https://github.com/usmaniraghib/AA_Selenium_Way-1.git
-https://github.com/usmaniraghib/AA_Selenium_Way-2.git
-https://github.com/usmaniraghib/AA_Selenium_Way-3.git
-https://github.com/usmaniraghib/AA_Selenium_Way-4.git
+https://github.com/usmaniraghib/AA_SeleniumVersion-4-12.git
+https://github.com/usmaniraghib/Actions.git
 https://github.com/usmaniraghib/Alert-JavaPopUp_WebPoUp.git
-https://github.com/usmaniraghib/amazon.git
+https://github.com/usmaniraghib/Amazon.git
 https://github.com/usmaniraghib/Autosuggestive.git
 https://github.com/usmaniraghib/BrokenLink.git
 https://github.com/usmaniraghib/CalenderPrograms.git
@@ -19,10 +17,13 @@ https://github.com/usmaniraghib/ChromeLocationNotification.git
 https://github.com/usmaniraghib/Conflict.git
 https://github.com/usmaniraghib/CucumberTestNgSeleniumProject-In-Eclipse.git
 https://github.com/usmaniraghib/DatabaseTestingUsingMySQL.git
-https://github.com/usmaniraghib/DataDrivenTesting.git
+https://github.com/usmaniraghib/DataDrivenTestingUsingApachePOI.git
+https://github.com/usmaniraghib/DataDrivenTestingUsingJXL.git
 https://github.com/usmaniraghib/DeleteCookies.git
 https://github.com/usmaniraghib/DropDown_Static-Dynamic.git
+https://github.com/usmaniraghib/Extension.git
 https://github.com/usmaniraghib/FileUplaodAndDownload.git
+https://github.com/usmaniraghib/Frame.git
 https://github.com/usmaniraghib/GoogleSearchBox.git
 https://github.com/usmaniraghib/GridOrCrossBrowserTestingUsingSeleniumFour.git
 https://github.com/usmaniraghib/Headless.git
@@ -34,6 +35,7 @@ https://github.com/usmaniraghib/PomWithPageFactory.git
 https://github.com/usmaniraghib/RadioButton.git
 https://github.com/usmaniraghib/RestAssuredBDDStyle.git
 https://github.com/usmaniraghib/RunChromeBrowserInDebugMode.git
+https://github.com/usmaniraghib/ScrollUsingActions.git
 https://github.com/usmaniraghib/ScrollUsingJavaScriptExecutor.git
 https://github.com/usmaniraghib/SeleniumWithProperties.git
 https://github.com/usmaniraghib/SeleniumWithTestNG-RunInBatch.git
@@ -46,6 +48,5 @@ https://github.com/usmaniraghib/TestNgCodeExecutionFlow.git
 https://github.com/usmaniraghib/TestNgWithXml-Git-JenkinsEmailNotification.git
 https://github.com/usmaniraghib/Tooltip.git
 https://github.com/usmaniraghib/TrainingDemoProject.git
-https://github.com/usmaniraghib/WebDriverManager.git
 https://github.com/usmaniraghib/WebTable.git
 https://github.com/usmaniraghib/WebTableWithPagination.git
