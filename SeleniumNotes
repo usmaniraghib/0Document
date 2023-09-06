@@ -1,0 +1,17 @@
+//How To Inspect Hidden / Disappeared Elements In Just One Click
+https://www.youtube.com/watch?v=-uokzf50TbI&t=184s
+
+//Shadow DOM
+https://selectorshub.com/xpath-practice-page/
+https://www.youtube.com/watch?v=0R0erfuJ76g
+https://www.youtube.com/watch?v=Gqc8Rq3KdPM
+
+//JavaScriptExecutor
+JavascriptExecutor js = (JavascriptExecutor) driver; 
+js.executeScript("return document.getElementsByClassName('imageSlideContainer')[0].remove();");
+
+//Alternate of getText
+https://www.youtube.com/watch?v=vx3jGWF-lIU
+
+Actions newwin = new Actions(driver); 
+newwin.keyDown(Keys.SHIFT).click(link).keyUp(Keys.SHIFT).build().perform();
