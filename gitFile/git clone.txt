@@ -42,6 +42,18 @@ git clone https://github.com/usmaniraghib/Actions.git
 
 ***********************
 
+git clone https://github.com/usmaniraghib/Actions-KeyBoardEvents.git
+
+***********************
+
+git clone https://github.com/usmaniraghib/Actions-MouseEvents.git
+
+***********************
+
+git clone https://github.com/usmaniraghib/Actions-Scroll.git
+
+***********************
+
 git clone https://github.com/usmaniraghib/Alert-JavaPopUp_WebPoUp.git
 
 ***********************
@@ -155,6 +167,10 @@ git clone https://github.com/usmaniraghib/RelativeLocator.git
 ***********************
 
 git clone https://github.com/usmaniraghib/RestAssuredBDDStyle.git
+
+***********************
+
+git clone https://github.com/usmaniraghib/Robot-MouseAndKeyBoard-Events.git
 
 ***********************
 

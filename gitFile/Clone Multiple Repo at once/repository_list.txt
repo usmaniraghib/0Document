@@ -7,6 +7,9 @@ https://github.com/usmaniraghib/A_Interview-String.git
 https://github.com/usmaniraghib/AA_ChromeVersion-116.git
 https://github.com/usmaniraghib/AA_SeleniumVersion-4-12.git
 https://github.com/usmaniraghib/Actions.git
+https://github.com/usmaniraghib/Actions-KeyBoardEvents.git
+https://github.com/usmaniraghib/Actions-MouseEvents.git
+https://github.com/usmaniraghib/Actions-Scroll.git
 https://github.com/usmaniraghib/Alert-JavaPopUp_WebPoUp.git
 https://github.com/usmaniraghib/Amazon.git
 https://github.com/usmaniraghib/Autosuggestive.git
@@ -36,6 +39,7 @@ https://github.com/usmaniraghib/PomWithPageFactory.git
 https://github.com/usmaniraghib/RadioButton.git
 https://github.com/usmaniraghib/RelativeLocator.git
 https://github.com/usmaniraghib/RestAssuredBDDStyle.git
+https://github.com/usmaniraghib/Robot-MouseAndKeyBoard-Events.git
 https://github.com/usmaniraghib/RunChromeBrowserInDebugMode.git
 https://github.com/usmaniraghib/ScrollUsingActions.git
 https://github.com/usmaniraghib/ScrollUsingJavaScriptExecutor.git
