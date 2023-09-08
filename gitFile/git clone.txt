@@ -150,6 +150,10 @@ git clone https://github.com/usmaniraghib/JavaSeleniumTestngCucumberMaven.git
 
 ***********************
 
+git clone https://github.com/usmaniraghib/LinkInAPage.git
+
+***********************
+
 git clone https://github.com/usmaniraghib/OOPSConceptInAutomation.git
 
 ***********************
